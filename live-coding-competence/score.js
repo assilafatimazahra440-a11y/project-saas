@@ -30,6 +30,7 @@
 
 simpleGame();
 
+
 /*function simpleGame(){
     let nomcompetence = ["Maquetter une application", 
     "Réaliser une interface utilisateur web statique et adaptable",
